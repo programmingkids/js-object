@@ -5,5 +5,3 @@ let person = {
     hobby : "テニス",
 };
 
-let values = Object.values(person);
-console.log(values);
